@@ -1,0 +1,7 @@
+﻿  Layer.cpp
+C:\Users\LJY\source\repos\4XMaker\4XMaker\Types.h(130,57): warning C4114: 동일한 형식 한정자를 두 번 이상 사용했습니다.
+C:\Users\LJY\source\repos\4XMaker\4XMaker\Types.h(33,9): warning C4244: '=': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\LJY\source\repos\4XMaker\4XMaker\Types.h(34,9): warning C4244: '=': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\LJY\source\repos\4XMaker\4XMaker\Types.h(45,9): warning C4244: '=': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\LJY\source\repos\4XMaker\4XMaker\Types.h(46,9): warning C4244: '=': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  4XMaker.vcxproj -> C:\Users\LJY\source\repos\4XMaker\Debug\StrategyMaker.exe

@@ -1,0 +1,4 @@
+﻿  CCore.cpp
+C:\Users\LJY\source\repos\4XMaker\4XMaker\CCore.cpp(63,26): warning C4838: 'unsigned int'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\LJY\source\repos\4XMaker\4XMaker\CCore.cpp(63,35): warning C4838: 'unsigned int'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+  4XMaker.vcxproj -> C:\Users\LJY\source\repos\4XMaker\x64\Debug\StrategyMaker.exe
